@@ -1,6 +1,5 @@
-echo "# Espressorwifi-ARM.Arch.TI-OMAP-4430" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/StaticVapour/Espressorwifi-ARM.Arch.TI-OMAP-4430.git
-git push -u origin master
+What is this project?
+---------------------
+-It's just a project that i'm interested about. I would like to run Arch Linux on my Galaxy Tab 2 because it's sitting unused in drawer
+
+It has TI OMAP 4430 SoC and PowerVR SGX540 GPU
